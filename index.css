@@ -14,7 +14,6 @@ body{
     padding: 30px 0px;
     margin: 30px 20px 30px 0;
     height: 270px;
-    width: 300px;
     border-radius: 5px;
 }
 
@@ -25,6 +24,3 @@ a{
 .fa{
     color: dodgerblue;
 }
-/* .col-md-4{
-    margin: 0;
-} */
